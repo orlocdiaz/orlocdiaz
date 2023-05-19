@@ -6,9 +6,9 @@ My journey as a Full Stack Developer began in 2021 when I wrote my first "Hello 
 ___
 
 ## 👽What I do
-I **_develop_** both personal and external projects that allow me to continuously improve my skills as a **_full stack developer_**.
+- I **_develop_** both personal and external web projects that enable me to continuously improve my skills as a **_full stack developer_**.
 
-Additionally, I am learning new **_languages_** and **_technologies_**, implementing them into these projects to be prepared for the next steps in this development environment.
+- I **_learn_** new **_languages_** and **_technologies_** and implement them into the projects I work with, preparing myself for the next steps in this development environment.
 
 ___
 
