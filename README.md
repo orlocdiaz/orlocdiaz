@@ -31,7 +31,7 @@ ___
 ___
 
 ## 📫Contact Me 
-[LinkedIn](https://www.linkedin.com/in/orlandocdiaz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orlandocdiaz)
 
 <!---
 orlocdiaz/orlocdiaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
