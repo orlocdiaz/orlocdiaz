@@ -1,4 +1,4 @@
-![GitHubCover](https://github.com/orlocdiaz/orlocdiaz/assets/98139225/5a7dd520-2ab5-4f08-8cc2-e988bc2285ea)
+![GitHubBG2](https://github.com/orlocdiaz/orlocdiaz/assets/98139225/2c66a204-315b-49bf-b916-d0bb44f0f4cd)
 
 # 👋Hey there, I’m Orlando.
 My journey as a Full Stack Developer began in 2021 when I wrote my first "Hello World!" in an HTML file, and that is one of the best things that could have happened to me. 
